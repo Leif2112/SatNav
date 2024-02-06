@@ -12,3 +12,21 @@ merits. Ultimately, the objective of this paper is to explore the
 fundamentals of space dynamics, specifically, the principles of
 orbital and attitude mechanics. These hold great significance
 to spacecraft deployment and navigation in space.
+
+## Two Body Problem
+In order to derive simple analytical results for the motion of a
+spacecraft about the Earth, it is assumed that any external
+forces from additional celestial bodies are disregarded - no ap-
+preciable force is exerted on the spacecraft from a third body.
+Likewise, any additional effects of orbit perturbations (i.e., so-
+lar wind pressure, atmospheric drag, Earth’s oblateness etc)
+are neglected, further simplifying the model. Under these as-
+sumptions, it can be stated that the motion of a satellite is
+purely due to the gravitational interaction with Earth.
+The following orbital parameters were considered:
+𝑎 = 7151.6 km
+𝑒 = 0.0008
+𝑖 = 98.39 deg
+Ω = 10.0 deg
+𝜔 = 233.0 deg
+𝑀0 = 127.0 deg
