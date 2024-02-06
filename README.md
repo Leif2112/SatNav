@@ -23,7 +23,7 @@ lar wind pressure, atmospheric drag, Earth’s oblateness etc)
 are neglected, further simplifying the model. Under these as-
 sumptions, it can be stated that the motion of a satellite is
 purely due to the gravitational interaction with Earth.
-The following orbital parameters were considered:
+The following orbital parameters were considered during the development of the software:
 𝑎 = 7151.6 km
 𝑒 = 0.0008
 𝑖 = 98.39 deg
